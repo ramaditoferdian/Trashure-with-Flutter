@@ -1,12 +1,12 @@
 # Trashure_Flutter
 
-# Splash Screen
+## Splash Screen
 <img src="preview/ex3.png" width="300">
 
-# Login Page
+## Login Page
 <img src="preview/ex1.png" width="300">
 
-# Signup Page
+## Signup Page
 <img src="preview/ex2.png" width="300">
 
 
